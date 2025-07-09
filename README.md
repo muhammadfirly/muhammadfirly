@@ -1,6 +1,6 @@
 # Muhammad Firly
 
-An Independent Software Engineer, Devoted to the Craft of Web and Mobile Technology.
+An Junior Software Engineer, Devoted to the Craft of Web and Mobile Technology.
 
 I am a person who prioritizes the right or wrong of opinions depending on the point of view, I am a person who likes to learn and read a lot, I really enjoy developing and sharing projects that enrich my knowledge, especially in the field of web developers, my expertise mainly lies in *PHP* which I have used as the main language in my business.
 
