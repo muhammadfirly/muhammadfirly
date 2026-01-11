@@ -7,7 +7,7 @@ I’m a context-driven problem solver who believes that the "right" solution dep
 
 - 🎓 Current Focus: Leveling up as an Informatics Engineering student.
 
-- 🛍️ Side Quest: I run an online store at lynk id (Check it out!).
+- 🛍️ Side Quest: I run an online store at lynk id (https://lynk.id/lystoredp).
 
 - 💬 Mentorship: Looking for guidance in the art of PHP development? I'm always down to help out and share what I know.
 
