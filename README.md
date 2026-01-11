@@ -1,13 +1,17 @@
 # Muhammad Firly
 
-An Junior Software Engineer, Devoted to the Craft of Web and Mobile Technology.
+Junior Software Engineer | Web & Mobile Craftsmanship
+Junior Software Engineer dedicated to the craft of building seamless web and mobile experiences.
 
-I am a person who prioritizes the right or wrong of opinions depending on the point of view, I am a person who likes to learn and read a lot, I really enjoy developing and sharing projects that enrich my knowledge, especially in the field of web developers, my expertise mainly lies in *PHP* which I have used as the main language in my business.
+I’m a context-driven problem solver who believes that the "right" solution depends on the perspective and the goal. As a lifelong learner and an avid reader, I thrive on developing and shipping projects that push my technical boundaries. My core expertise lies in PHP, which has been the backbone of my business logic and development workflow.
 
-Currently I am an active student in the informatics engineering department, coincidentally I have an online shop at [lynk id](https://lynk.id/lystoredp), to see my shop you can click on the word *lynk id*.
+- 🎓 Current Focus: Leveling up as an Informatics Engineering student.
 
-- 💬 If you are looking for guidance in the art of *Php* development, I would be more than happy to help.
-- 📫 You can correspond with me at: muhammadfirly68@gmail.com
+- 🛍️ Side Quest: I run an online store at lynk id (Check it out!).
+
+- 💬 Mentorship: Looking for guidance in the art of PHP development? I'm always down to help out and share what I know.
+
+- 📫 Get in touch: Reach out to me at muhammadfirly68@gmail.com
 
 ---
 
@@ -28,8 +32,11 @@ Currently I am an active student in the informatics engineering department, coin
 
 ---
 
-### 📊 GitHub Statistic
+### 🛠️ Behind the Code
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfirly&show_icons=true&theme=radical)](https://github.com/muhammadfirly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfirly&show_icons=true&theme=dracula&rank_icon=github&border_radius=10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfirly&layout=compact&theme=radical)](https://github.com/muhammadfirly)
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadfirly&theme=dracula&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfirly&layout=compact&theme=dracula&border_radius=10)
